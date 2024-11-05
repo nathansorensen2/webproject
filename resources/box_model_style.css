@@ -1,0 +1,52 @@
+/*
+  white: #FFFFFF
+  accent1: #0F8A14
+  accent2: #8A0F85
+*/
+
+h1 {
+  color: #0F8A14;
+  text-align: center;
+}
+
+th,td {
+  border: #8A0F85 double thick;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #0F8A14;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #8A0F85;
+}
+
+p.unique { background-color: #0F8A14;
+  text-decoration-color: #FFFFFF;
+  border: dotted #8A0F85 15px;
+  width: 350px;
+  padding: 48px 48px 48px 48px;
+  margin: auto;
+}
+
+div {background-color: #0F8A14;
+  width: 646;
+  padding: 50px 50px 50px 50px;
+  border-style: groove;
+  width: 100px;
+  border-color: #8A0F85;
+  margin: auto;
+}
+
+body {
+  padding: 150px;
+  font-size: larger;
+}

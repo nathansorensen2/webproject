@@ -1,0 +1,55 @@
+/*
+    background color: #B4E6AC
+    header color: #695454
+    second color: #546969
+*/
+body {
+    background-color: #B4E6AC;
+    padding: 20px 20px 20px 20px;
+}
+h1 {
+    color: #695454;
+    text-align: center;
+    font-size: 100px;
+}
+
+table { 
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #546969;
+}
+
+th,td {
+    border: solid 5px;
+    padding: 10px;
+}
+
+p.picture {
+    text-align: center;
+}
+
+p, table {
+    text-align: center;
+    font-size: larger;
+    border-color: #546969;
+}
+
+li {
+    font-size: larger;
+}
+
+h2,h3 {
+    color: #695454;
+    font-size: 50px;
+}
+
+
+div {background-color: #546969;
+    width: 800px;
+    padding: 50px 50px 50px 50px;
+    border-style: groove;
+    border-color: #695454;
+    margin: auto;
+  }
+  
